@@ -2,6 +2,7 @@
   <div id="app">
     
     <todoApp msg="Welcome to Your Vue.js App"> </todoApp>
+    
   </div>
 </template>
 
@@ -12,6 +13,7 @@ export default {
   name: 'App',
   components: {
     todoApp,
+ 
   }
 }
 </script>
